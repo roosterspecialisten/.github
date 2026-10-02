@@ -1,9 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="rs-logo-light.svg">
-  <img src="rs-logo-dark.svg" alt="Roosterspecialisten" width="220">
-</picture>
-
-# Roosteren zonder omwegen
+<img src="banner.png" alt="Roosteren zonder omwegen. Rooster Intelligence voor het voortgezet onderwijs: live rooster, analyse, werkstroom en roosterconsultancy." width="100%">
 
 Roosterspecialisten maakt **Rooster Intelligence**: één dashboard voor scholen in het voortgezet onderwijs, direct uit het roostersysteem. Wij zijn zelf roostermakers en bouwen het dashboard dat wij elke dag gebruiken.
 
