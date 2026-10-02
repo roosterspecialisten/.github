@@ -9,7 +9,7 @@ Roosterspecialisten maakt **Rooster Intelligence**: één dashboard voor scholen
 
 ## Wat wij doen
 
-| | |
+| Onderdeel | Wat het doet |
 |---|---|
 | **Live rooster** | Dag- en weekroosters per docent, klas en lokaal, altijd actueel. |
 | **Analyse** | Onderwijstijd, roosterkwaliteit, lessenverdeling, formatie en prognose, in rapporten met de huisstijl van de school. |
